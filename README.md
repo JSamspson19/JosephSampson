@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Certifications<br>- CompTIA Security+<br>- CISSP<br>- AWS Certified Solutions Architect</p>
+<p align="left">Certifications<br>- CompTIA Security+
 
 ###
 
